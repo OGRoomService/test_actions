@@ -11,12 +11,6 @@ class ApplicationTests {
 	}
 
 	@Test
-	void this_test_fails()
-	{
-		throw new RuntimeException("This test fails");	
-	}
-
-	@Test
 	void this_test_passes()
 	{		// This test passes
 	}
