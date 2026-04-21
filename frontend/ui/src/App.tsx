@@ -11,7 +11,7 @@ function App() {
     if (count > 0) {
       console.log("This will throw a linter error because it is not in the dep array");
     }
-  }, [ count ]);
+  }, [ ]);
 
   return (
     <>
