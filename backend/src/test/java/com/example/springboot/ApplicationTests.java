@@ -9,4 +9,9 @@ class ApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+
+	@Test
+	void this_test_passes()
+	{		// This test passes
+	}
 }
